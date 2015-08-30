@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="purple_a7a6ff">#a7a6ff</color>
+	
+    <color name="orange_f6482f">#f6482f</color>
+    <color name="orange_f39231">#f39231</color>
+    <color name="green_blue">#27c19e</color>
+    <color name="green_9cc63e">#9cc63e</color>
+    
+    <color name="gray_f8f8f8">#f8f8f8</color>
+	<color name="gray_dedede">#dedede</color>
+	<color name="gray_f2f2f2">#f2f2f2</color>
+    
+    <color name="white">#ffffffff</color>
+    <color name="black">#1B1B1B</color>
+    <color name="black_454547">#454547</color>
+    <color name="black_6b6b6b">#6b6b6b</color>
+    <color name="black_868686">#868686</color>
+    <color name="black_6c7680">#6c7680</color>
+    <color name="black_cc000000">#cc000000</color>
+    <color name="blue_3ab356">#3ab356</color>
+    
+    
+    
+    <color name="gray_d7d7d7">#D7D7D7</color>
+    <color name="gray_787878">#787878</color>
+    <color name="gray_bcbcbc">#BCBCBC</color>
+    <color name="transferblack">#aa000000</color>
+    <color name="transparent">#00000000</color>
+    
+    
+    
+    <color name="blue">#379be9</color> <!-- #37badd -->
+    <color name="red">#FF0000</color>
+    <color name="blue_light">#48a6f0</color>
+    <color name="blue_lllight">#b3d2ff</color>
+    <color name="theme1">#032e94</color>
+    <color name="theme2">#890920</color>
+    <color name="theme3">#499591</color>
+    <color name="theme4">#305448</color>
+    <color name="theme5">#f19c49</color>
+    <color name="theme6">#073646</color>
+
+    <!-- rfab start -->
+    <!-- list类型的文本颜色 -->
+    <color name="rfab__color_text_label_item">#777777</color>
+    <!-- 背景颜色 -->
+    <color name="rfab__color_background_normal">#ffffff</color>
+    <color name="rfab__color_background_pressed">#dddddd</color>
+    <!-- RFAL的frame覆盖层颜色 -->
+    <color name="rfab__color_frame">#ffffff</color>
+    <!-- 背景阴影颜色 -->
+    <color name="rfab__color_shadow">#c6c6c6</color>
+    <!-- rfab end -->
+
+</resources>

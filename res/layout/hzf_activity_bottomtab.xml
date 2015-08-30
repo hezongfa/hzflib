@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/hzf_layParent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:id="@+id/hzf_frameContent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/hzf_bottomline" >
+    </FrameLayout>
+
+    <View
+        android:id="@+id/hzf_bottomline"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_above="@+id/hzf_layBottom"
+        android:background="@color/gray_dedede" />
+
+    <LinearLayout
+        android:id="@+id/hzf_layBottom"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+</RelativeLayout>
